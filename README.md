@@ -1,1 +1,1 @@
-# Cryptocurrency_Rates-Javascript
+# Cryptocurrency-Rates-Javascript
